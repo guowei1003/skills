@@ -104,4 +104,9 @@ cp -r create-git-worktree /path/to/your-project/.cursor/skills/
 
 ## 相关链接
 
+- [Cursor Skills 官方文档](https://cursor.com/docs/context/skills)
 - [Git worktree 文档](https://git-scm.com/docs/git-worktree)
+
+## License
+
+本项目采用 [MIT License](./LICENSE) 开源。
